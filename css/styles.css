@@ -1,0 +1,113 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 500%;
+  margin-top: 50px;
+  color: #112d4e;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 200%;
+  color: #112d4e;
+}
+
+hr {
+  color: #112d4e;
+  border-style: dotted;
+  border-top: none;
+  border-width: 15px;
+  margin-left: 670px;
+  margin-right: 670px;
+  margin-bottom: 70px;
+}
+
+p {
+  color: #112d4e;
+  font-family:  'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+
+/*****************************CLASSES********************************/
+
+.top-container {
+  background-color: #f9f7f7;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 500px;
+
+}
+
+.middle-container {
+  background-color: #dbe2ef;
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+
+.profile {
+  padding-bottom: 30px;
+}
+
+.profile-text {
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.bottom-container {
+  background-color: #3f72af;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.topCloud {
+  position: absolute;
+  top: 50px;
+  right: 280px;
+}
+
+.bottomCloud {
+  position: absolute;
+  bottom: 300px;
+  left: 280px;
+}
+.mountain {
+  height: 300px;
+  width: 300px;
+  position: absolute;
+  bottom: 30px;
+  right: 600px;
+}
+.profile-image {
+  border-radius: 50%;
+  height: 25%;
+  width: 25%;
+}
+
+.skill-image1 {
+  height: 25%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-image2 {
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
